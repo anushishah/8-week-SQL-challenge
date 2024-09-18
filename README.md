@@ -1,1 +1,1 @@
-8-Week-SQL-Challenge.
+SQL case study projects
